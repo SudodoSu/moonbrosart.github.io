@@ -36699,7 +36699,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 58px;
+  min-height: 77px;
 }
 
 .u-header .u-image-1 {
@@ -36729,26 +36729,14 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-icon-2 {
   height: 100%;
 }
-@media (max-width: 1199px) {
-  .u-header .u-sheet-1 {
-    min-height: 65px;
-  }
-}
-@media (max-width: 991px) {
-  .u-header .u-sheet-1 {
-    min-height: 75px;
-  }
 
+@media (max-width: 991px) {
   .u-header .u-social-icons-1 {
     margin-top: -6px;
     margin-right: -24px;
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-sheet-1 {
-    min-height: 79px;
-  }
-
   .u-header .u-image-1 {
     margin-left: -22px;
   }
@@ -36758,10 +36746,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
-  .u-header .u-sheet-1 {
-    min-height: 77px;
-  }
-
   .u-header .u-image-1 {
     width: 155px;
     height: 62px;
